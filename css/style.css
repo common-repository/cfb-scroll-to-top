@@ -1,0 +1,17 @@
+#scrollUp{
+background: url("../images/arrow.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+bottom: 15px;
+color: #ffffff;
+font-size: 18px;
+height: 40px;
+padding: 10px;
+right: 25px;
+width: 40px;
+}
+#scrollUp:hover{
+background:url("../images/arrowhover.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+color:#8A3F34;
+}
